@@ -24,3 +24,5 @@ __pycache__/
 # Jupyter Notebook
 .ipynb_checkpoints/
 
+# Dataset files
+data/
